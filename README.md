@@ -76,3 +76,7 @@ Our code refers to the following repositories. We thank the authors for releasin
 * [TIP 2020 (Hier-RCNN & COCOHumanParts) - Hier R-CNN: Instance-level Human Parts Detection and A New Benchmark](https://github.com/soeaver/Hier-R-CNN)
 
 * [YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
+
+* [ICIP 2017 - Simple Online and Realtime Tracking with a Deep Association Metric]
+
+* [TMM (IEEE Transactions on Multimedia) - StrongSORT: Make DeepSORT Great Again]([https://github.com/ultralytics/yolov5](https://github.com/dyhBUPT/StrongSORT?tab=readme-ov-file))
