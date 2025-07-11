@@ -66,6 +66,7 @@ For the testing stage, please run:
 $ python track.py
 ```
 
+For the tracking results comparison, please see [TrackEval](https://github.com/JonathonLuiten/TrackEval) for details
 
 # Acknowledgement
 
