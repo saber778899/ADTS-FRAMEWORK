@@ -4,30 +4,7 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 
 ## Demo
 
-[Uploading 7月11日_20250711_20022550.mp4…](https://github.com/user-attachments/assets/480db1a0-9caa-49d6-8982-8916ea8951f2)
-
-<table> 
-  <tr> 
-    <td>
-      [Uploading 7月11日_20250711_20022550.mp4…](https://github.com/user-attachments/assets/480db1a0-9caa-49d6-8982-8916ea8951f2)
-    </td> 
-    <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro2.png">
-    </td> 
-  </tr> 
-</table>
-
-<table> 
-  <tr> 
-    <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro3.png">
-    </td> 
-    <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro4.png">
-    </td> 
-  </tr> 
-</table>
-
+https://github.com/user-attachments/assets/122d6f0a-ac9e-40cf-b90e-9271d4ee0e70
 
 ## Illustrations
 
