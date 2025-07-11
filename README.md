@@ -23,11 +23,11 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
 
 ## Datasets
 
-* Download address for the complete dataset and annotations: [AstroVisData](https://drive.google.com/drive/folders/1J6jC7lk71T37W7JEW5QDFIps2e8kAnaL?usp=drive_link)
+* Download address for the complete dataset and annotations: [AstroVisData](https://drive.google.com/drive/folders/1J6jC7lk71T37W7JEW5QDFIps2e8kAnaL?usp=drive_link),  which includes two subsets: AstroBodyParts and AstroMultiObj.
   
 ## AstroDetNet Training and Testing
 
-Process official annotations of AstroBodyParts(subset of AstroVisData) for our task by running 
+Process official annotations of AstroBodyParts for our task by running 
 
 ```python
 $ python AstroDetNet/tools/get_anno_HumanParts_v2.py
@@ -66,7 +66,7 @@ For the testing stage, please run:
 $ python track.py
 ```
 
-For the comparison of astronauts tracking effects, please see [TrackEval](https://github.com/JonathonLuiten/TrackEval) for details
+For a quantitative evaluation of AstroTracNet's tracking performance on the AstroMultiObj dataset, please refer to [TrackEval](https://github.com/JonathonLuiten/TrackEval) for details
 
 # Acknowledgement
 
