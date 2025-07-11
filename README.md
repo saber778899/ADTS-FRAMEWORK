@@ -27,13 +27,13 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
   
 ## AstroDetNet Training and Testing
 
-Process official annotations of AstroBodyParts for our task by running 
+Process official annotations of AstroBodyParts for our task by running: 
 
 ```python
 $ python AstroDetNet/tools/get_anno_HumanParts_v2.py
 ```
 
-Preparing yolov5-style labels for body-parts
+Preparing yolov5-style labels for body-parts:
 
 ```python
 $ python AstroDetNet/utils/labels.py --data data/JointBP_HumanParts.yaml
@@ -54,7 +54,7 @@ $ python AstroDetNet/demos/image.py
 
 ## AstroTracNet Training and Testing
 
-Training the RE-ID model with [Market-1501](https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?resourcekey=0-8nyl7K9_x37HlQm34MmrYQ) dataset
+Training the RE-ID model with [Market-1501](https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?resourcekey=0-8nyl7K9_x37HlQm34MmrYQ) dataset:
 
 ```python
 $ python AstroTracNet/astro_sort/astro/train.py
