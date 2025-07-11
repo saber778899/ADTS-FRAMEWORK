@@ -60,23 +60,10 @@ Training the RE-ID model with [Market-1501](https://drive.google.com/file/d/0B8-
 $ python AstroTracNet/astro_sort/astro/train.py
 ```
 
-Preparing yolov5-style labels for body-parts
-
-```python
-$ python utils/labels.py --data data/JointBP_HumanParts.yaml
-```
-
-For the training stage, please run:
-
-```python
-$ python train.py --workers 15 --device 0,1,2,3 --data data/JointBP_HumanParts.yaml \
-    --hyp data/hyp-p6.yaml --val-scales 1 --val-flips -1 
-```
-
 For the testing stage, please run:
 
 ```python
-$ python demos/image.py
+$ python track.py
 ```
 
 
