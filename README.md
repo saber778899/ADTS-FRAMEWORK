@@ -9,7 +9,7 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 <table> 
   <tr> 
     <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro1.png">
+      <[Uploading 7月11日_20250711_20022550.mp4…](https://github.com/user-attachments/assets/480db1a0-9caa-49d6-8982-8916ea8951f2)>
     </td> 
     <td>
       <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro2.png">
