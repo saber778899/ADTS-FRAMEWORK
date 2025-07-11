@@ -68,7 +68,7 @@ $ python track.py
 
 For a quantitative evaluation of AstroTracNet's tracking performance on the AstroMultiObj dataset, please refer to [TrackEval](https://github.com/JonathonLuiten/TrackEval) for details.
 
-Please place the AstroMultiObj dataset in TrackEval/data/gt/mot_challenge and the tracking results in TrackEval/data/trackers/mot_challenge
+Please place the AstroMultiObj dataset in TrackEval/data/gt/mot_challenge and the tracking results in TrackEval/data/trackers/mot_challenge.
 
 # Acknowledgement
 
