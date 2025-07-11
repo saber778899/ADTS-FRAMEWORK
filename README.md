@@ -78,6 +78,6 @@ Our code refers to the following repositories. We thank the authors for releasin
 
 * [YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
 
-* [ICIP 2017 - Simple Online and Realtime Tracking with a Deep Association Metric]
+* [ICIP 2017 - Simple Online and Realtime Tracking with a Deep Association Metric](https://github.com/nwojke/deep_sort)
 
-* [TMM (IEEE Transactions on Multimedia) - StrongSORT: Make DeepSORT Great Again]([https://github.com/ultralytics/yolov5](https://github.com/dyhBUPT/StrongSORT?tab=readme-ov-file))
+* [TMM (IEEE Transactions on Multimedia) - StrongSORT: Make DeepSORT Great Again](https://github.com/dyhBUPT/StrongSORT?tab=readme-ov-file)
