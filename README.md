@@ -7,10 +7,10 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 <table> 
   <tr> 
     <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demos/Astro1.png">
+      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro1.png">
     </td> 
     <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demos/Astro2.png">
+      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro2.png">
     </td> 
   </tr> 
 </table>
@@ -18,10 +18,10 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 <table> 
   <tr> 
     <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demos/Astro3.png">
+      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro3.png">
     </td> 
     <td>
-      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demos/Astro4.png">
+      <img src="https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/demo/Astro4.png">
     </td> 
   </tr> 
 </table>
