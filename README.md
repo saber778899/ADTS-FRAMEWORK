@@ -27,7 +27,9 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
   
 ## AstroDetNet Training and Testing
 
-Process official annotations of AstroBodyParts for our task by running: 
+Please place the AstroBodyParts dataset in AstroDetNet/datasdc/dataset/coco
+
+Then process official annotations of AstroBodyParts for our task by running: 
 
 ```python
 $ python AstroDetNet/tools/get_anno_HumanParts_v2.py
