@@ -1,6 +1,6 @@
 # ADTS: A Framework for Astronaut Visual Body Parts Detection and Tracking in Space Stations
 
-This is the official implementation of "ADTS: A Framework for Astronaut Visual Body Parts \\ Detection and Tracking in Space Stations" on PyTorch platform.
+This is the official implementation of "ADTS: A Framework for Astronaut Visual Body Parts Detection and Tracking in Space Stations" on PyTorch platform.
 
 ## Demo
 
@@ -23,9 +23,7 @@ $ pip3 install torch==1.10.0+cu111 torchvision==0.11.1+cu111 torchaudio==0.10.0+
 
 ## Datasets
 
-* Download address for the complete dataset and annotations: [AstroBodyParts Datasets](https://drive.google.com/drive/folders/1wUf7o7ngUXhXjTdUNYcZ4VGuQaP8kzNb?usp=drive_link)
-
-* Download link for the pre-divided training and validation sets: [AstroBodyParts Datasets Pre-divided](https://drive.google.com/drive/folders/1BCIJo1lzVhbxC4TYu6hrPRxHcPhKLde4?usp=drive_link)
+* Download address for the complete dataset and annotations: [AstroVisData](https://drive.google.com/drive/folders/1J6jC7lk71T37W7JEW5QDFIps2e8kAnaL?usp=drive_link)
   
 ## Training and Testing
 
