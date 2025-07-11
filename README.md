@@ -29,7 +29,7 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 
 ## Illustrations
 
-![image](https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/illustration3.png)
+![image](https://github.com/saber778899/ADTS-FRAMEWORK/blob/main/illustration.png)
 
 ## Installation
 
