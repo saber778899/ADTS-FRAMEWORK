@@ -4,9 +4,7 @@ This is the official implementation of "ADTS: A Framework for Astronaut Visual B
 
 ## Demo
 
-
-Uploading 7月11日_20250711_20022550.mp4…
-
+[Uploading 7月11日_20250711_20022550.mp4…](https://github.com/user-attachments/assets/480db1a0-9caa-49d6-8982-8916ea8951f2)
 
 <table> 
   <tr> 
